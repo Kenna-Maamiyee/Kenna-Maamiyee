@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kenna-Maamiyee
+- 👋 Hi, I’m  Yohannes Alemayehu 
 
 👀 I’m interested in Software Development, Data Structures & Algorithms, Open Source Projects,machine learning and AI development
 
@@ -9,11 +9,7 @@
 📫 How to reach me: maamiyee1210@gmail.com
 😄 Pronouns: he/his  
 
-⚡ Fun fact: I love solving tricky coding puzzles and can explain tough concepts like BST deletion or Master Theorem with fun analogies!
+⚡I love solving tricky coding puzzles and can explain tough concepts like BST deletion or Master Theorem with fun analogies!
 
 
-
-<!---
-Kenna-Maamiyee/Kenna-Maamiyee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
